@@ -1,36 +1,4 @@
 @import '../../styles/base';
+
 .info-banner {
- font-size: 30px;
- text-align: center;
- font-weight: bold;
 }
-.grid-default-style {
-    border-radius: 30px;
-    text-align: center;
-    padding: 20px;
-   // Column Styles
-   .background-image-contain {
-     background-image: url('../../../assets/images/box-color-01.png');
-     background-size: contain;
-     background-repeat: no-repeat;
-     background-position: center;
-   }
-   .aaaaaaaa{
-     width: 100px;
-     height: 90px;
-     background-image: url('../../../assets/images/box-color-02.png');
-     background-size: contain;
-     background-repeat: no-repeat;
-     background-position: center;
-   }
-   .col-6 h1{
-     height: 30px;
-     margin-top: 20px;
-     color: white;
-   }
-   .col-6 P{
-     margin-top: 10px;
-     font-size: 20px;
-     color: #fff
-   }
- }
